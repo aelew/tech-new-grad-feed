@@ -1,0 +1,94 @@
+name: Publish Listing
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: URL
+        required: true
+        type: string
+      company_name:
+        description: Company Name
+        required: true
+        type: string
+      company_url:
+        description: Company URL
+        required: false
+        type: string
+        default: ''
+      title:
+        description: Role
+        required: true
+        type: string
+      locations:
+        description: Locations (SF / NYC / ...)
+        required: true
+        type: string
+      sponsorship:
+        description: Sponsorship Status
+        required: true
+        type: choice
+        default: Other
+        options:
+          - Other
+          - Offers Sponsorship
+          - Does Not Offer Sponsorship
+          - U.S. Citizenship is Required
+
+jobs:
+  publish-listing:
+    name: Publish Listing
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: 3.x
+
+      - name: Update listings
+        run: |
+          python -c "
+          from uuid import uuid4
+          from time import time
+          import json
+
+          with open('.github/scripts/listings.json', 'r') as f:
+              listings = json.load(f)
+
+          now = int(time())
+
+          listings.append({
+              'id': str(uuid4()),
+              'source': 'aelew',
+              'company_name': '${{ inputs.company_name }}',
+              'company_url': '${{ inputs.company_url }}',
+              'title': '${{ inputs.title }}',
+              'season': '${{ inputs.season }}',
+              'locations': '${{ inputs.locations }}'.split(' / '),
+              'sponsorship': '${{ inputs.sponsorship }}',
+              'url': '${{ inputs.url }}',
+              'active': True,
+              'is_visible': True,
+              'date_posted': now,
+              'date_updated': now
+          })
+
+          with open('.github/scripts/listings.json', 'w') as f:
+              json.dump(listings, f, indent=2)
+          "
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/scripts/listings.json
+          git commit -m "add listing: ${{ inputs.title }} @ ${{ inputs.company_name }}
+
+          Co-authored-by: ${{ github.event.sender.login }} <${{ github.event.sender.id }}+${{ github.event.sender.login }}@users.noreply.github.com>"
+          git push
