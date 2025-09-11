@@ -69,7 +69,6 @@ jobs:
               'company_name': '${{ inputs.company_name }}',
               'company_url': '${{ inputs.company_url }}',
               'title': '${{ inputs.title }}',
-              'season': '${{ inputs.season }}',
               'locations': '${{ inputs.locations }}'.split(' / '),
               'sponsorship': '${{ inputs.sponsorship }}',
               'url': '${{ inputs.url }}',
