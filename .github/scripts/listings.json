@@ -15,5 +15,22 @@
     "is_visible": true,
     "date_posted": 1757746749,
     "date_updated": 1757746749
+  },
+  {
+    "id": "7c5ce6b7-6a1e-444b-9108-b9effc7de7f2",
+    "source": "aelew",
+    "company_name": "Adobe",
+    "company_url": "https://www.adobe.com",
+    "title": "2026 University Graduate - Junior Product Manager",
+    "locations": [
+      "San Jose, CA",
+      "San Francisco, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://careers.adobe.com/us/en/job/R159932/2026-University-Graduate-Junior-Product-Manager",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757747000,
+    "date_updated": 1757747000
   }
 ]
