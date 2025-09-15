@@ -49,5 +49,21 @@
     "is_visible": true,
     "date_posted": 1757945704,
     "date_updated": 1757945704
+  },
+  {
+    "id": "d507337a-c941-47e6-ab5c-7e44252693d0",
+    "source": "aelew",
+    "company_name": "Duolingo",
+    "company_url": "",
+    "title": "Software Engineer I",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://careers.duolingo.com/jobs/8155283002?",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757945822,
+    "date_updated": 1757945822
   }
 ]
