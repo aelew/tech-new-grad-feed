@@ -65,5 +65,21 @@
     "is_visible": true,
     "date_posted": 1757945822,
     "date_updated": 1757945822
+  },
+  {
+    "id": "e3b6c30e-edf6-4771-9aa9-852001a2a6d8",
+    "source": "aelew",
+    "company_name": "Duolingo",
+    "company_url": "",
+    "title": "Data Scientist, New Graduate",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://careers.duolingo.com/jobs/8162849002?",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1757946027,
+    "date_updated": 1757946027
   }
 ]
