@@ -81,5 +81,21 @@
     "is_visible": true,
     "date_posted": 1757946027,
     "date_updated": 1757946027
+  },
+  {
+    "id": "98cf625f-8c8c-4bc9-bf9e-79fe79be24ed",
+    "source": "aelew",
+    "company_name": "Optiver",
+    "company_url": "https://optiver.com/",
+    "title": "Graduate Software Engineer (2026 Start \u2013 Chicago)",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "sponsorship": "Other",
+    "url": "https://optiver.com/working-at-optiver/career-opportunities/7986419002/",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1758837144,
+    "date_updated": 1758837144
   }
 ]
