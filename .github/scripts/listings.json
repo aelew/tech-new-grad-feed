@@ -97,5 +97,24 @@
     "is_visible": true,
     "date_posted": 1758837144,
     "date_updated": 1758837144
+  },
+  {
+    "id": "42467a24-eb63-4faa-9824-6d42ea43248f",
+    "source": "aelew",
+    "company_name": "Salesforce",
+    "company_url": "https://www.salesforce.com/",
+    "title": "Software Engineering AMTS/MTS (New Grad)",
+    "locations": [
+      "San Francisco, CA",
+      "Palo Alto, CA",
+      "Seattle, WA",
+      "Bellevue, WA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR307625-1",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759187453,
+    "date_updated": 1759187453
   }
 ]
