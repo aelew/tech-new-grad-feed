@@ -150,5 +150,22 @@
     "is_visible": true,
     "date_posted": 1759244920,
     "date_updated": 1759244920
+  },
+  {
+    "id": "eacd1736-b4b1-4a34-b1e8-834eaa7d43de",
+    "source": "aelew",
+    "company_name": "Numeric",
+    "company_url": "",
+    "title": "Software Engineer - Early Career",
+    "locations": [
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "url": "https://jobs.ashbyhq.com/numeric/f9c9e075-7799-414f-8601-f770c0cd9061",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759256796,
+    "date_updated": 1759256796
   }
 ]
