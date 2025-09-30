@@ -116,5 +116,39 @@
     "is_visible": true,
     "date_posted": 1759187453,
     "date_updated": 1759187453
+  },
+  {
+    "id": "756bd964-0bfa-4f44-a7a8-f3663a6fc068",
+    "source": "aelew",
+    "company_name": "Google",
+    "company_url": "https://google.com/",
+    "title": "Software Engineer, Early Career, Campus, 2026",
+    "locations": [
+      "Mountain View, CA",
+      "Ann Arbor, MI",
+      "Atlanta, GA",
+      "Austin, TX",
+      "Cambridge, MA",
+      "Chicago, IL",
+      "Irvine, CA",
+      "Kirkland, WA",
+      "Los Angeles, CA",
+      "Madison, WI",
+      "New York, NY",
+      "Palo Alto, CA",
+      "Princeton, NJ",
+      "Pittsburgh, PA",
+      "San Bruno, CA",
+      "Seattle, WA",
+      "San Francisco, CA",
+      "Sunnyvale, CA",
+      "Washington D.C."
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/79125737784648390-software-engineer/",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759244920,
+    "date_updated": 1759244920
   }
 ]
