@@ -183,5 +183,21 @@
     "is_visible": true,
     "date_posted": 1759368060,
     "date_updated": 1759368060
+  },
+  {
+    "id": "305e8c21-6742-4ba9-bcdf-ddcd3dccaf5e",
+    "source": "aelew",
+    "company_name": "ZipRecruiter",
+    "company_url": "",
+    "title": "Software Engineer - New Grad",
+    "locations": [
+      "Santa Monica, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/7203130",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759418274,
+    "date_updated": 1759418274
   }
 ]
