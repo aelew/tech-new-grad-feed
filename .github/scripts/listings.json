@@ -167,5 +167,21 @@
     "is_visible": true,
     "date_posted": 1759256796,
     "date_updated": 1759256796
+  },
+  {
+    "id": "a1f66ec5-76da-4751-9fe9-499da677942a",
+    "source": "aelew",
+    "company_name": "Replit",
+    "company_url": "",
+    "title": "Software Engineer - New Grad (Summer 2026)",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc?departmentId=fade1a9b-8707-4117-b905-aa3c7d53d830",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759368060,
+    "date_updated": 1759368060
   }
 ]
