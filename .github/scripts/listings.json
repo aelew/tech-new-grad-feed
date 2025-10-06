@@ -199,5 +199,25 @@
     "is_visible": true,
     "date_posted": 1759418274,
     "date_updated": 1759418274
+  },
+  {
+    "id": "39470f2c-86c5-485d-a72f-aef61a596165",
+    "source": "aelew",
+    "company_name": "DoorDash",
+    "company_url": "https://www.doordash.com/",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "locations": [
+      "New York, NY",
+      "San Francisco, CA",
+      "Los Angeles, CA",
+      "Seattle, WA",
+      "Sunnyvale, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://careersatdoordash.com/jobs/software-engineer-i-entry-level-graduation-date-fall-2025-summer-2026/7263610/",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759784511,
+    "date_updated": 1759784511
   }
 ]
