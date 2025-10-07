@@ -219,5 +219,21 @@
     "is_visible": true,
     "date_posted": 1759784511,
     "date_updated": 1759784511
+  },
+  {
+    "id": "5f0a5456-f155-4ead-9072-0611ace2c9f3",
+    "source": "aelew",
+    "company_name": "Uber",
+    "company_url": "",
+    "title": "Graduate 2025 Software Engineer I, iOS",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://university-uber.icims.com/jobs/149558/job?mobile=true&width=393&height=662&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1759850104,
+    "date_updated": 1759850104
   }
 ]
