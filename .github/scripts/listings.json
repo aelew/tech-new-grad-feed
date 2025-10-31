@@ -253,5 +253,21 @@
     "is_visible": true,
     "date_posted": 1760467269,
     "date_updated": 1760467269
+  },
+  {
+    "id": "a5261231-acad-4b37-9063-06f60a844954",
+    "source": "aelew",
+    "company_name": "Meta",
+    "company_url": "https://www.meta.com/",
+    "title": "Data Engineer, Analytics (University Grad)",
+    "locations": [
+      "New York, NY"
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.metacareers.com/jobs/2578176955882259",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1761952409,
+    "date_updated": 1761952409
   }
 ]
