@@ -14,5 +14,21 @@
     "is_visible": true,
     "date_posted": 1780876187,
     "date_updated": 1780876187
+  },
+  {
+    "id": "d589d6e8-69a5-48a6-a612-f1477406a7c4",
+    "source": "aelew",
+    "company_name": "Uber",
+    "company_url": "https://www.uber.com/",
+    "title": "Software Engineer I (MS)",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://jobs.uber.com/en/jobs/300623/",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1786673899,
+    "date_updated": 1786673899
   }
 ]
