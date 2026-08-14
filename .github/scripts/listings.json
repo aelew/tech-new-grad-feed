@@ -30,5 +30,21 @@
     "is_visible": true,
     "date_posted": 1786673899,
     "date_updated": 1786673899
+  },
+  {
+    "id": "ff57936e-28e7-4715-9788-b6287ce8b544",
+    "source": "aelew",
+    "company_name": "SpaceX",
+    "company_url": "https://www.spacex.com/",
+    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+    "locations": [
+      "Bastrop, TX"
+    ],
+    "sponsorship": "Other",
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=spacex&jr_id=6a7f4864e51a1e18a2411543&token=8696097002",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1786730133,
+    "date_updated": 1786730133
   }
 ]
