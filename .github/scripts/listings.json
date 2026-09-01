@@ -46,5 +46,23 @@
     "is_visible": true,
     "date_posted": 1786730133,
     "date_updated": 1786730133
+  },
+  {
+    "id": "0bdc3ec2-95cb-48de-9a07-fcba1d1986cc",
+    "source": "aelew",
+    "company_name": "Stripe",
+    "company_url": "https://stripe.com/",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, CA",
+      "Seattle, WA",
+      "New York, NY"
+    ],
+    "sponsorship": "Offers Sponsorship",
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=stripe&token=8128744",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1788230335,
+    "date_updated": 1788230335
   }
 ]
