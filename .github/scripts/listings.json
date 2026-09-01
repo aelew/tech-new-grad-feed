@@ -64,5 +64,24 @@
     "is_visible": true,
     "date_posted": 1788230335,
     "date_updated": 1788230335
+  },
+  {
+    "id": "cbc02524-5729-4372-a795-41ebc507aac5",
+    "source": "aelew",
+    "company_name": "Whatnot",
+    "company_url": "https://www.whatnot.com/",
+    "title": "Software Engineer, 2027 New Grad",
+    "locations": [
+      "San Francisco, CA",
+      "Los Angeles, CA",
+      "New York, NY",
+      "Seattle, WA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.whatnot.com/en-GB/careers/roles/29bad846-de60-4be7-a222-69b97e044930",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1788230571,
+    "date_updated": 1788230571
   }
 ]
