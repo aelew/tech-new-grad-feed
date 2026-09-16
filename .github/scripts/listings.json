@@ -83,5 +83,23 @@
     "is_visible": true,
     "date_posted": 1788230571,
     "date_updated": 1788230571
+  },
+  {
+    "id": "33313bd5-1179-4354-b0b2-539479d126b5",
+    "source": "aelew",
+    "company_name": "Plaid",
+    "company_url": "https://plaid.com/",
+    "title": "Software Engineering, New Grad",
+    "locations": [
+      "Seattle, WA",
+      "New York, NY",
+      "San Francisco, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://app.ripplematch.com/v2/public/job/726e99d1",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1789596134,
+    "date_updated": 1789596134
   }
 ]
