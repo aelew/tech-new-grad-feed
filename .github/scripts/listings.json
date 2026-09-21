@@ -119,5 +119,21 @@
     "is_visible": true,
     "date_posted": 1790005985,
     "date_updated": 1790005985
+  },
+  {
+    "id": "48dc616b-4e55-4684-b3aa-31ef38af296b",
+    "source": "aelew",
+    "company_name": "NVIDIA",
+    "company_url": "https://www.nvidia.com/",
+    "title": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Agentic-Compilation-Systems---New-College-Grad-2027_JR2026218?utm_id=97760_v0_s00_e0_tv4",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1790033160,
+    "date_updated": 1790033160
   }
 ]
