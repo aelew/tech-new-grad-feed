@@ -243,5 +243,21 @@
     "is_visible": true,
     "date_posted": 1790283657,
     "date_updated": 1790283657
+  },
+  {
+    "id": "080a40e0-f78c-4e3a-8007-d94822cb7160",
+    "source": "aelew",
+    "company_name": "Perplexity",
+    "company_url": "https://www.perplexity.ai/",
+    "title": "Member of Technical Staff (New Grad)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://jobs.ashbyhq.com/perplexity/8a99d9be-6955-4f28-8150-80c8ce72c523",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1790283697,
+    "date_updated": 1790283697
   }
 ]
