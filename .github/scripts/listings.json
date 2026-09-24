@@ -174,5 +174,24 @@
     "is_visible": true,
     "date_posted": 1790283330,
     "date_updated": 1790283330
+  },
+  {
+    "id": "91cf040d-cf94-48b7-bc67-e9acc0804c38",
+    "source": "aelew",
+    "company_name": "Amazon",
+    "company_url": "https://www.amazon.jobs/",
+    "title": "Software Development Engineer I, Annapurna Labs, Early Career - 2027",
+    "locations": [
+      "Austin, TX 2L",
+      "Cupertino, CA 2L",
+      "New York, NY 2L",
+      "Seattle, WA 2L"
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1790283339,
+    "date_updated": 1790283339
   }
 ]
