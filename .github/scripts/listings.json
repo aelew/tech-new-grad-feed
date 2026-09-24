@@ -210,5 +210,22 @@
     "is_visible": true,
     "date_posted": 1790283609,
     "date_updated": 1790283609
+  },
+  {
+    "id": "96e2fe92-47f7-4a58-b5b3-def44f80f6b4",
+    "source": "aelew",
+    "company_name": "Amazon",
+    "company_url": "https://www.amazon.com/",
+    "title": "Solutions Architect, AWSI - 2027",
+    "locations": [
+      "Dallas, TX",
+      "Seattle, WA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.amazon.jobs/en/jobs/10506956/solutions-architect-awsi-2027?jr_id=6aa8c53210b1cd4f41603f5b",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1790283637,
+    "date_updated": 1790283637
   }
 ]
