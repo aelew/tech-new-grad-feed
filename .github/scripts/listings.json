@@ -316,5 +316,22 @@
     "is_visible": true,
     "date_posted": 1792449882,
     "date_updated": 1792449882
+  },
+  {
+    "id": "f0a81189-9f28-44f9-8a9a-d314adb56c42",
+    "source": "aelew",
+    "company_name": "Apple",
+    "company_url": "https://www.apple.com",
+    "title": "Software Engineer, IS&T Early Career Opportunities",
+    "locations": [
+      "Cupertino, CA",
+      "Sunnyvale, CA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://jobs.apple.com/en-us/details/200689349-0836/software-engineer-is-t-early-career-opportunities",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1792449962,
+    "date_updated": 1792449962
   }
 ]
