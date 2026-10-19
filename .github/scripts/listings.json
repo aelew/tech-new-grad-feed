@@ -292,5 +292,29 @@
     "is_visible": true,
     "date_posted": 1790385161,
     "date_updated": 1790385161
+  },
+  {
+    "id": "ed8e221b-1494-4962-ba75-8cb6784c0299",
+    "source": "aelew",
+    "company_name": "Amazon",
+    "company_url": "https://www.amazon.com",
+    "title": "Software Development Engineer, Early Career - 2027 (US)",
+    "locations": [
+      "Arlington, VA",
+      "Austin, TX",
+      "Boston, MA",
+      "Denver, CO",
+      "Detroit, MI",
+      "Madison, WI",
+      "Minneapolis, MN",
+      "Santa Clara, CA",
+      "Seattle, WA"
+    ],
+    "sponsorship": "Other",
+    "url": "https://www.amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1792449882,
+    "date_updated": 1792449882
   }
 ]
